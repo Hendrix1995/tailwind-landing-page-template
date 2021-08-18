@@ -2,7 +2,7 @@
 
 ![Simple TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/96160974-f93aa780-0f16-11eb-9ce4-81d94b216be6.png)
 
-**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more. 
+**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.
 Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
 Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
 
@@ -16,24 +16,24 @@ Looking for more pages and components? Have a look at the **premium version** he
 
 ## Table of contents
 
-* [Usage](#usage)
-  * [Available Scripts](#available-scripts)
-    * [npm start](#npm-start)
-    * [npm test](#npm-test)
-    * [npm run build](#npm-run-build)
-    * [npm run eject](#npm-run-eject)
-  * [Learn More](#learn-more)
-    * [Code Splitting](#code-splitting)
-    * [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-    * [Making a Progressive Web App](#making-a-progressive-web-app)
-    * [Advanced Configuration](#advanced-configuration)
-    * [Deployment](#deployment)
-    * [npm run build fails to minify](#npm-run-build-fails-to-minify)
-  * [Google Analytics Setup](#google-analytics-setup)
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+- [Usage](#usage)
+  - [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm test](#npm-test)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [npm run build fails to minify](#npm-run-build-fails-to-minify)
+  - [Google Analytics Setup](#google-analytics-setup)
+- [Credits](#credits)
+- [Terms and License](#terms-and-license)
+- [About Us](#about-us)
+- [Stay in the loop](#stay-in-the-loop)
 
 ## Usage
 
@@ -44,6 +44,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 #### `npm install`
+
 To install the dependencies package.
 
 #### `npm start`
@@ -133,3 +134,5 @@ We're an Italian developer/designer duo creating high-quality design/code resour
 ## Stay in the loop
 
 If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
+
+<!-- test -->
